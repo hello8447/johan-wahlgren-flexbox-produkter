@@ -1,0 +1,29 @@
+.produkt-box{
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 50px;
+    font-weight: 80%;
+  }
+  
+    .produkt-box  div {
+      background-color:white;
+      width: 1000px;
+      height: 250px;
+      margin: 10px;
+      text-align: center;
+      line-height: 40px;
+      font-size: 40px;
+      border: solid black;
+      border-width: 0,25cm ;
+      border-radius: 10%;
+      vertical-align:middle;
+      display: table-cell;
+      margin: 2cm;
+      margin-top: 4cm;
+    
+    }
+    .produkt-box  img{
+      height: 85%;
+      width: 85% 
+    }
+     

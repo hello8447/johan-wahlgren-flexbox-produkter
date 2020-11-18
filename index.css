@@ -1,0 +1,28 @@
+.produkt-box{
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 50px;
+  font-weight: 80%;
+  margin: 0,1cm;
+  margin-top: 4cm;
+}
+
+.produkt-box  div {
+16:58 17/11/202016:59 17/11/2020  background-color:white;
+  width: 125px;
+  height: 125px;
+  margin: 10px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 40px;
+  border: solid black;
+  border-width: 0,25cm ;
+  border-radius: 10%;
+  display: table-cell;
+}
+
+.produkt-box  img{
+  height: 85%;
+  width: 85% 
+}
+
